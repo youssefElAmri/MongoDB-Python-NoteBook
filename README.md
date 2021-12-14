@@ -15,3 +15,11 @@
 #MonoDB Command Line
 
 ![mongo db](https://user-images.githubusercontent.com/77083037/145920656-8ad2ae20-cf0b-49a5-8184-1293b0921b94.jpg)
+
+#Aggregation Review
+
+![aggregation](https://user-images.githubusercontent.com/77083037/146036063-29e4adf2-be75-4739-8170-3eb9f76dbd7e.jpg)
+
+#Sharded cluster Schema
+
+![Uploading shardschema.jpg…]()
