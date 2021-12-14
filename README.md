@@ -1,6 +1,6 @@
 # MongoDB-Python-NoteBook
 
-# Connecting to Mongo SHELL
+# Connecting to my Cluster
 
 ![connecting to mongoSHELL](https://user-images.githubusercontent.com/77083037/145919273-30bbe1ad-ce0f-4e8b-8749-f07a49c232fe.jpg)
 
