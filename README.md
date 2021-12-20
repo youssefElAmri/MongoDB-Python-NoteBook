@@ -1,3 +1,7 @@
+# Mongo Shell
+
+![mongosh](https://user-images.githubusercontent.com/77083037/146697479-95e4df51-1eb3-41ab-97d4-6877503378ab.jpg)
+
 # MongoDB-Python-NoteBook
 
 #Connecting to Localost
